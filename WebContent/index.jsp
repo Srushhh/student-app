@@ -16,7 +16,7 @@ div.ex {
 </style>
 <body>
 	<h1>Fortune Cloud Team</h1> </br>
-	<h2>Welcomes you!!</h2> </br>
+	<h2>HELLO YOU!!</h2> </br>
 	<h2>Student admission form </h2>
 	<div class="ex">
 		<form action="registrationController" method="post">
